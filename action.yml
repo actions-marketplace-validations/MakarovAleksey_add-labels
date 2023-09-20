@@ -1,4 +1,4 @@
-name: "Add Labels"
+name: "Add Labels Fixed version"
 description: "Add labels on Pull Requests or Issues"
 inputs:
   labels:
