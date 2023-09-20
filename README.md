@@ -2,6 +2,8 @@
 
 A GitHub Action to add labels on PR / Issue events
 
+Forked from christianvuerings/add-labels with https://github.com/christianvuerings/add-labels/pull/1 fix from @FDiskas
+
 ## Inputs
 
 ### `labels`
