@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: christianvuerings/add-labels@v1
+      - uses: MakarovAleksey/add-labels@v1
         with:
           labels: |
             minor release
